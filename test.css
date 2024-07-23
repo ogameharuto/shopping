@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.searchResults{
+    display: flex;
+    line-height: 36px;
+    font-size: 28px;
+    font-weight: 700;
+    color: #434343;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
